@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>three.js &#8211; sanguino.io</title>
+	<atom:link href="/project-tag/three-js/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Miguel G. Sanguino</description>
+	<lastBuildDate>Sat, 28 Jan 2017 18:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<item>
+		<title>Grey of Hearts</title>
+		<link>/portfolio/grey-of-hearts/</link>
+		<pubDate>Thu, 26 Jan 2017 16:30:15 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=17</guid>
+		<description><![CDATA[Grey of Hearts es la felicitación de navidad de grey a sus clientes, donde se demuestra el corazón que pone cada trabajador en todos y cada uno de los proyectos. http://greyofhearts.sanguino.io]]>/</description>
+				<content:encoded><![CDATA[<p><img class="aligncenter wp-image-15 size-full" src="/content/uploads/2017/01/goh1.png" width="2830" height="1532" srcset="/content/uploads/2017/01/goh1.png 2830w, /content/uploads/2017/01/goh1-300x162.png 300w, /content/uploads/2017/01/goh1-768x416.png 768w, /content/uploads/2017/01/goh1-1024x554.png 1024w" sizes="(max-width: 2830px) 100vw, 2830px" /></p>
+<p>Grey of Hearts es la felicitación de navidad de grey a sus clientes, donde se demuestra el corazón que pone cada trabajador en todos y cada uno de los proyectos.</p>
+<p><img class="alignnone wp-image-16 size-full" src="/content/uploads/2017/01/goh2.png" width="2876" height="1556" srcset="/content/uploads/2017/01/goh2.png 2876w, /content/uploads/2017/01/goh2-300x162.png 300w, /content/uploads/2017/01/goh2-768x416.png 768w, /content/uploads/2017/01/goh2-1024x554.png 1024w" sizes="(max-width: 2876px) 100vw, 2876px" /></p>
+<p><a href="http://greyofhearts.sanguino.io/">http://greyofhearts.sanguino.io/</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>box2d &#8211; sanguino.io</title>
+	<atom:link href="/project-tag/box2d/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Miguel G. Sanguino</description>
+	<lastBuildDate>Sat, 28 Jan 2017 18:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<item>
+		<title>LAE &#8211; La Bolsa de Sueños (OPV)</title>
+		<link>/portfolio/lae-la-bolsa-de-suenos-opv/</link>
+		<pubDate>Thu, 26 Jan 2017 21:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=98</guid>
+		<description><![CDATA[LAE prepara su OPV con una campaña a gran escala y en tres fases (imagen, venta y agradecimiento). Se desarrolló una web que contenía toda la información y una simulación de la Bolsa con la cotización de los sueños que la gente iba creando en nuestra bolsa de sueños. Participación: Direción Tecnica del desarrollo del&#8230;]]></description>
+				<content:encoded><![CDATA[<p>LAE prepara su OPV con una campaña a gran escala y en tres fases (imagen, venta y agradecimiento). Se desarrolló una web que contenía toda la información y una simulación de la Bolsa con la cotización de los sueños que la gente iba creando en nuestra bolsa de sueños.<br />
+Participación: Direción Tecnica del desarrollo del site. Desarrollo del menú y sus animaciones y el cambio de secciones.</p>
+<div class="video-wrapper"><div style="width: 512px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-98-1" width="512" height="282" preload="metadata" controls="controls"><source type="video/mp4" src="/content/uploads/2017/01/lae.mp4?_=1" /><a href="/content/uploads/2017/01/lae.mp4">/content/uploads/2017/01/lae.mp4</a></video></div></div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

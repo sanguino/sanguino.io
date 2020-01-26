@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>node &#8211; sanguino.io</title>
+	<atom:link href="/project-tag/node/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Miguel G. Sanguino</description>
+	<lastBuildDate>Sat, 28 Jan 2017 18:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<item>
+		<title>Salva la Navidad con Ono</title>
+		<link>/portfolio/salva-la-navidad-con-ono/</link>
+		<pubDate>Thu, 26 Jan 2017 20:39:30 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=85</guid>
+		<description><![CDATA[Este proyecto es una historia interactiva. Lo usuarios durante la historia tienen que conectar su móvil, e interactuar. Primero pulsando la pantalla del móvil para que acelere el trineo, y después pulsando la pantalla para fabricar juguetes, dándole la vuelta al télefono para cambiar la fábrica cuando llega Rudolf. Técnicamente está desarrollada con Node.js y&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Este proyecto es una historia interactiva. Lo usuarios durante la historia tienen que conectar su móvil, e interactuar. Primero pulsando la pantalla del móvil para que acelere el trineo, y después pulsando la pantalla para fabricar juguetes, dándole la vuelta al télefono para cambiar la fábrica cuando llega Rudolf.</p>
+<p>Técnicamente está desarrollada con Node.js y Create.js.</p>
+<p>Participación: Desarollo del motor y los juegos, el sitey el servidor con node y scket.io</p>
+<p><img class="aligncenter size-full wp-image-91" src="/content/uploads/2017/01/navidad1.png" alt="" width="600" height="416" srcset="/content/uploads/2017/01/navidad1.png 600w, /content/uploads/2017/01/navidad1-300x208.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><img class="aligncenter size-full wp-image-90" src="/content/uploads/2017/01/navidad2.png" alt="" width="600" height="374" srcset="/content/uploads/2017/01/navidad2.png 600w, /content/uploads/2017/01/navidad2-300x187.png 300w" sizes="(max-width: 600px) 100vw, 600px" /> <img class="aligncenter size-full wp-image-89" src="/content/uploads/2017/01/navidad3.png" alt="" width="600" height="374" srcset="/content/uploads/2017/01/navidad3.png 600w, /content/uploads/2017/01/navidad3-300x187.png 300w" sizes="(max-width: 600px) 100vw, 600px" /> <img class="aligncenter size-full wp-image-88" src="/content/uploads/2017/01/navidad4.png" alt="" width="600" height="401" srcset="/content/uploads/2017/01/navidad4.png 600w, /content/uploads/2017/01/navidad4-300x201.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><img class="aligncenter size-full wp-image-87" src="/content/uploads/2017/01/navidad5.jpg" alt="" width="600" height="464" srcset="/content/uploads/2017/01/navidad5.jpg 600w, /content/uploads/2017/01/navidad5-300x232.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

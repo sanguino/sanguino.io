@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>webgl &#8211; sanguino.io</title>
+	<atom:link href="/project-tag/webgl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Miguel G. Sanguino</description>
+	<lastBuildDate>Sat, 28 Jan 2017 18:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<item>
+		<title>Dasai</title>
+		<link>/portfolio/dasai/</link>
+		<pubDate>Thu, 26 Jan 2017 21:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=101</guid>
+		<description><![CDATA[Esta web la desarrollé en 2007 para promocionar mi empresa. Se hizo en papervision 3D. Poco tiempo después salió en numerosos blogs, y webs, como smashingmagazine, papervision.org, paginas de escuelas, etc&#8230; Está publicada como referencia en el libro Web Design Index 09. Participación: Diseño, 3D, Desarrollo, etc&#8230; www.dasai.es]]></description>
+				<content:encoded><![CDATA[<p>Esta web la desarrollé en 2007 para promocionar mi empresa. Se hizo en papervision 3D. Poco tiempo después salió en numerosos blogs, y webs, como smashingmagazine, papervision.org, paginas de escuelas, etc&#8230; Está publicada como referencia en el libro Web Design Index 09.</p>
+<p>Participación: Diseño, 3D, Desarrollo, etc&#8230;</p>
+<p>www.dasai.es</p>
+<p><img class="aligncenter wp-image-104 size-full" src="/content/uploads/2017/01/dasai.png" width="600" height="394" srcset="/content/uploads/2017/01/dasai.png 600w, /content/uploads/2017/01/dasai-300x197.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>J&#038;B OneEarOlder</title>
+		<link>/portfolio/jb-oneearolder/</link>
+		<pubDate>Thu, 26 Jan 2017 17:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=39</guid>
+		<description><![CDATA[Desarrollo web realizado para J&#38;B dentro de su plan anual de CRM y Fidelización. La campaña consistía en enviar a tus amigos un avatar digital casi exacto a ti para que sea él quien reciba los tan desagradables tirones de orejas. Participación: Desarrolo del site. I+D del sistema de mapeo de cara a partir de&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Desarrollo web realizado para J&amp;B dentro de su plan anual de CRM y Fidelización. La campaña consistía en enviar a tus amigos un avatar digital casi exacto a ti para que sea él quien reciba los tan desagradables tirones de orejas.<br />
+Participación: Desarrolo del site. I+D del sistema de mapeo de cara a partir de foto.</p>
+<p>&nbsp;</p>
+<div class="video-wrapper"><iframe class='youtube-player' type='text/html' width='840' height='503' src='http://www.youtube.com/embed/0GceaUWT7FM?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Grey of Hearts</title>
+		<link>/portfolio/grey-of-hearts/</link>
+		<pubDate>Thu, 26 Jan 2017 16:30:15 +0000</pubDate>
+		<dc:creator><![CDATA[sanguino]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=17</guid>
+		<description><![CDATA[Grey of Hearts es la felicitación de navidad de grey a sus clientes, donde se demuestra el corazón que pone cada trabajador en todos y cada uno de los proyectos. http://greyofhearts.sanguino.io]]>/</description>
+				<content:encoded><![CDATA[<p><img class="aligncenter wp-image-15 size-full" src="/content/uploads/2017/01/goh1.png" width="2830" height="1532" srcset="/content/uploads/2017/01/goh1.png 2830w, /content/uploads/2017/01/goh1-300x162.png 300w, /content/uploads/2017/01/goh1-768x416.png 768w, /content/uploads/2017/01/goh1-1024x554.png 1024w" sizes="(max-width: 2830px) 100vw, 2830px" /></p>
+<p>Grey of Hearts es la felicitación de navidad de grey a sus clientes, donde se demuestra el corazón que pone cada trabajador en todos y cada uno de los proyectos.</p>
+<p><img class="alignnone wp-image-16 size-full" src="/content/uploads/2017/01/goh2.png" width="2876" height="1556" srcset="/content/uploads/2017/01/goh2.png 2876w, /content/uploads/2017/01/goh2-300x162.png 300w, /content/uploads/2017/01/goh2-768x416.png 768w, /content/uploads/2017/01/goh2-1024x554.png 1024w" sizes="(max-width: 2876px) 100vw, 2876px" /></p>
+<p><a href="http://greyofhearts.sanguino.io/">http://greyofhearts.sanguino.io/</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
